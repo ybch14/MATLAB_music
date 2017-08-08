@@ -1,6 +1,6 @@
 # MATLAB project : music
 
-This is a course project of Advanced MATLAB Programming and Engineering Applications of Department of EE., Tsinghua University. There are two subtasks: music composition; music frequency analysis. More detailed topic can be found in questions.pdf.
+This is a course project of Advanced MATLAB Programming and Engineering Applications of Department of EE., Tsinghua University. There are three subtasks: music composition; music frequency analysis; GUI application design. More detailed topic can be found in questions.pdf.
 
 ### File list
 
