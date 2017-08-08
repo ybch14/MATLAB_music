@@ -4,9 +4,9 @@ This is a course project of Advanced MATLAB Programming and Engineering Applicat
 
 ### File list
 
-questions.pdf: questions of this project.
-report.pdf: the technical report of this project
-src: src code of the project, file names are correspond to question indices.
+- ```questions.pdf```: questions of this project.
+- ```report.pdf```: the technical report of this project
+- ```src/```: src code of the project, file names are correspond to question indices.
 
 ### Dependencies
 
